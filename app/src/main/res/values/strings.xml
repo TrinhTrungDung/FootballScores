@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Football Scores</string>
+    <string name="reset">Reset</string>
+    <string name="teamA">A</string>
+    <string name="teamB">B</string>
+    <string name="shots">Shots</string>
+    <string name="fouls">Fouls</string>
+    <string name="yellow">Yellow Cards</string>
+    <string name="red">Red Cards</string>
+    <string name="initialScore">0</string>
+    <string name="incrementShots">+1 goal</string>
+    <string name="incrementFouls">+1 foul</string>
+    <string name="incrementYellow">+1 yellow</string>
+    <string name="incrementRed">+1 red</string>
+</resources>
